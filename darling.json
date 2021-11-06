@@ -1,23 +1,23 @@
 [
-    {"title": "kool",
+    {"title": "Marie",
       "number": "900",
       "image": "https://cdn.pixabay.com/photo/2021/10/01/16/21/eris-6672934_960_720.jpg",
       "size":"M",
       "search": "title, number, "
     },
-    {"title": "charlotte",
+    {"title": "Charlotte",
       "number": "80",
       "image": "https://cdn.pixabay.com/photo/2021/10/01/16/21/eris-6672934_960_720.jpg",
       "size":"L",
       "search": "charlotte, 80, M"
     },
-    {"title": "mirelle",
+    {"title": "Mirelle",
       "number": "800",
       "image": "https://cdn.pixabay.com/photo/2021/10/01/16/21/eris-6672934_960_720.jpg",
       "size":"M",
       "search": "mirelle, 800, l"
     },
-    {"title": "carlotta",
+    {"title": "Carlotta",
       "number": "980",
       "image": "https://cdn.pixabay.com/photo/2021/10/01/16/21/eris-6672934_960_720.jpg",
       "size":"L",
